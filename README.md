@@ -2,7 +2,11 @@
 
 ##Objective:
 
-The objective of the "Wireshark for Beginners" is to equip learners with the foundational skills to use Wireshark for capturing and analyzing network packets. By the end of the project, participants will be able to install and set up Wireshark, start packet captures, use display filters to detect specific types of traffic (such as HTTP and HTTPS packets), and save captured data for further analysis1. This hands-on experience is designed to help beginners understand the basics of network traffic analysis, which is crucial for roles in cybersecurity and network administration.
+The objective of this project is to provide learners with practical experience in using Wireshark for network packet capture and analysis. By the end of this project, participants will:
+
+- Understand Wireshark Interface: Gain familiarity with Wireshark's interface and features.
+- Capture Network Traffic: Learn to capture live network traffic and save it for analysis.
+- Analyze Packets
 
 ##Skills Learned:
 
