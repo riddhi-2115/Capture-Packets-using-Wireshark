@@ -2,7 +2,7 @@
 
 ##Objective:
 
-The objective of this project is to provide learners with practical experience in using Wireshark for network packet capture and analysis. By the end of this project, participants will:
+The objective of this project is to provide learners with practical experience in using Wireshark for network packet capture and analysis.
 
 - Understand Wireshark Interface: Gain familiarity with Wireshark's interface and features.
 - Capture Network Traffic: Learn to capture live network traffic and save it for analysis.
